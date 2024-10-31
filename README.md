@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+My name is Harriet, i am a skilled and self-motivated DevOps engineer interested in all things orchestration, cloud administration, security and managent.
+- 🔭 I’m currently working on a DevOps fully automated pipeline.
+- 🔭 I recently worked on a project to deploy nginx application/pod using terraform on AWS
+- 🌱 I’m currently learning the Developer course on AWS and preparing to take the certication.
+- 👯 I’m looking to collaborate on projects in python and kubernetes!
+         - Send me ideas to tenguhh@yahoo.com
+- 📫 How to reach me:tenguhh@yahoo.com, http://www.linkedin.com/in/mbah-harriet-tenguh-429106b4
 <!--
 **Tenguh/tenguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
