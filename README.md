@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Harriet, i am a skilled and self-motivated DevOps engineer interested in all things orchestration, cloud administration, security and managent.
 - 🔭 I’m currently working on a DevOps fully automated pipeline project
-- 🔭 I recently worked on a project to deploy nginx application/pod securing the statefile in an S3 bucketand locking the state using dynamoDB with the help of terraform on AWS
+- 🔭 I recently worked on a project to deploy nginx application/pod, securing the statefile in an S3 bucket and locking the state using dynamoDB with the help of terraform on AWS
 - 🌱 I’m currently preparing to take the Terraform certication.
 - 👯 I’m looking to collaborate on projects in python,kubernetes and AI!
          - Send me ideas to tenguhh@yahoo.com
