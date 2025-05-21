@@ -14,6 +14,17 @@ A Results-driven DevOps Engineer!
 📫 How to reach me chiellaharriet640@gmail.com,  http://www.linkedin.com/in/mbah-harriet-tenguh-429106b4
 
 Languages and Tools:
-aws terraform cloudformation docker jenkins github actions argocd git kubernetes linux python redis ansible elasticsearch
+- aws  
+- terraform 
+- cloudformation
+- docker 
+- jenkins   - linux
+- github actions   - argocd
+- git
+- kubernetes
+- python
+- redis
+- ansible
+- elasticsearch
 
   
